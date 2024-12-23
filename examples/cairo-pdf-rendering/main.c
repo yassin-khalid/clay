@@ -31,6 +31,7 @@
 // e.g. render PNGs.
 #include <cairo/cairo-pdf.h>
 
+// this is just for learning purposes
 // Layout the first page.
 void Layout() {
 	static Clay_Color PRIMARY = { 0xa8, 0x42, 0x1c, 255 };
